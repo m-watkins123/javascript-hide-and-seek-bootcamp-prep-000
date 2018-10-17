@@ -34,4 +34,3 @@ function increaseRankBy(n) {
     items[i].innerHTML = parseInt(items[i].innerHTML) + n
   }
 }
-© 2018 GitHub, Inc.
